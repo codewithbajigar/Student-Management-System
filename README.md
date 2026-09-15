@@ -21,8 +21,8 @@ Features
 Technologies Used
 
 - Programming Language: C
-- Compiler: GCC / MinGW
-- IDE: Code::Blocks / Visual Studio Code
+- Compiler: MinGW(GCC)
+- IDE:Visual Studio Code
 - Storage: Binary files (".dat")
 
 Files Used
